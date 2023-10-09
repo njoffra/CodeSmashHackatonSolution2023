@@ -1,0 +1,15 @@
+C:\Users\korisnik\Desktop\CodeSmashHackatonSolution\bin\Debug\net6.0\CodeSmashHackatonSolution.exe
+C:\Users\korisnik\Desktop\CodeSmashHackatonSolution\bin\Debug\net6.0\CodeSmashHackatonSolution.deps.json
+C:\Users\korisnik\Desktop\CodeSmashHackatonSolution\bin\Debug\net6.0\CodeSmashHackatonSolution.runtimeconfig.json
+C:\Users\korisnik\Desktop\CodeSmashHackatonSolution\bin\Debug\net6.0\CodeSmashHackatonSolution.dll
+C:\Users\korisnik\Desktop\CodeSmashHackatonSolution\bin\Debug\net6.0\CodeSmashHackatonSolution.pdb
+C:\Users\korisnik\Desktop\CodeSmashHackatonSolution\obj\Debug\net6.0\CodeSmashHackatonSolution.csproj.AssemblyReference.cache
+C:\Users\korisnik\Desktop\CodeSmashHackatonSolution\obj\Debug\net6.0\CodeSmashHackatonSolution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\korisnik\Desktop\CodeSmashHackatonSolution\obj\Debug\net6.0\CodeSmashHackatonSolution.AssemblyInfoInputs.cache
+C:\Users\korisnik\Desktop\CodeSmashHackatonSolution\obj\Debug\net6.0\CodeSmashHackatonSolution.AssemblyInfo.cs
+C:\Users\korisnik\Desktop\CodeSmashHackatonSolution\obj\Debug\net6.0\CodeSmashHackatonSolution.csproj.CoreCompileInputs.cache
+C:\Users\korisnik\Desktop\CodeSmashHackatonSolution\obj\Debug\net6.0\CodeSmashHackatonSolution.dll
+C:\Users\korisnik\Desktop\CodeSmashHackatonSolution\obj\Debug\net6.0\refint\CodeSmashHackatonSolution.dll
+C:\Users\korisnik\Desktop\CodeSmashHackatonSolution\obj\Debug\net6.0\CodeSmashHackatonSolution.pdb
+C:\Users\korisnik\Desktop\CodeSmashHackatonSolution\obj\Debug\net6.0\CodeSmashHackatonSolution.genruntimeconfig.cache
+C:\Users\korisnik\Desktop\CodeSmashHackatonSolution\obj\Debug\net6.0\ref\CodeSmashHackatonSolution.dll
